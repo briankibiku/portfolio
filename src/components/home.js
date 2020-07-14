@@ -149,7 +149,7 @@ class AppPage extends React.Component {
                       alt=""
                       className="img-fluid"
                     /> */}
-                    <img src={require('../img/mobile_applications.svg')} height='600' width='800' />
+                    <img src={require('../img/mobile_applications.svg')} alt='' height='600' width='800' />
                   </MDBAnimation>
                 </MDBCol>
               </MDBRow>
